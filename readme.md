@@ -9,7 +9,7 @@ An implementation of the Unicode Line Breaking Algorithm (UAX #14)
 
 This is a JavaScript implementation of the
 [Unicode Line Breaking Algorithm](http://www.unicode.org/reports/tr14/#SampleCode) for Node.js
-(and browsers I guess).  It is used by [PDFKit](http://github.com/devongovett/pdfkit/) for
+(and browsers I guess).  It is used by [PDFKit](http://github.com/foliojs-fork/pdfkit/) for
 line wrapping text in PDF documents, but since the algorithm knows nothing about the actual
 visual appearance or layout of text, it could be used for other things as well.
 
@@ -17,7 +17,7 @@ visual appearance or layout of text, it could be used for other things as well.
 
 You can install via npm
 
-    npm install linebreak
+    npm install @foliojs-fork/linebreak
 
 ## Example
 
