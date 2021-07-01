@@ -1,6 +1,6 @@
 {
   "name": "@foliojs-fork/linebreak",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "An implementation of the Unicode Line Breaking Algorithm (UAX #14)",
   "repository": {
     "type": "git",
