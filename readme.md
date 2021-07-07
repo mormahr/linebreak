@@ -13,6 +13,11 @@ This is a JavaScript implementation of the
 line wrapping text in PDF documents, but since the algorithm knows nothing about the actual
 visual appearance or layout of text, it could be used for other things as well.
 
+## Why fork?
+
+Because on original repo is not possible release new version on npm see [foliojs/linebreak#24](https://github.com/foliojs/linebreak/issues/24).
+This fork is same as original repo and is maintained up-to-date.
+
 ## Installation
 
 You can install via npm
