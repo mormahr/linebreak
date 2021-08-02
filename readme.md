@@ -19,7 +19,7 @@ This fork is same as original repo and is maintained up-to-date.
 
 ## Installation
 
-You can install via npm
+You can install via [npm](https://www.npmjs.com/package/@foliojs-fork/linebreak)
 
     npm install @foliojs-fork/linebreak
 
