@@ -1,4 +1,7 @@
-# Fork of linebreak
+# Fork of linebreak [![npm][npm_img]][npm_url]
+
+[npm_img]: https://img.shields.io/npm/v/@foliojs-fork/linebreak.svg
+[npm_url]: https://www.npmjs.com/package/@foliojs-fork/linebreak
 An implementation of the Unicode Line Breaking Algorithm (UAX #14)
 
 > Line breaking, also known as word wrapping, is the process of breaking a section of text into lines such that it will fit in the
@@ -19,7 +22,7 @@ This fork is same as original repo and is maintained up-to-date.
 
 ## Installation
 
-You can install via [npm](https://www.npmjs.com/package/@foliojs-fork/linebreak)
+You can install via npm
 
     npm install @foliojs-fork/linebreak
 
